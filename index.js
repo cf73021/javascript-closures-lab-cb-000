@@ -1,4 +1,4 @@
 const app = "I don't do much."
-function bumpCounter(counter){
-
+function bumpCounter(){
+  const counter = 0
 }
