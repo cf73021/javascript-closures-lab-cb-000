@@ -14,3 +14,5 @@ function createAnimal(animalType){
     var creation = {type: animalType, device: deadlyDevice}
   }
 }
+
+var sharkCreator = createAnimal('Shark')
