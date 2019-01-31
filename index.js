@@ -14,7 +14,7 @@ function createAnimal(animalType){
     var creation = {animalType: animalType, deadlyDevice: deadlyDevice}
     return creation
   }
-
+  return addDevice
 }
 
 var sharkCreator = createAnimal('Shark')
