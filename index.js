@@ -11,6 +11,6 @@ function bumpCounter(){
 
 function createAnimal(animalType){
   function (deadlyDevice){
-    
+    var creation = {type: animalType, device: deadlyDevice}
   }
 }
