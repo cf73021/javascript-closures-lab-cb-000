@@ -1,4 +1,3 @@
-
 function bumpCounter(){
   var counter = 0
   function addBump(){
